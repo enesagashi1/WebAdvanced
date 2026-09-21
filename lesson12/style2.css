@@ -1,0 +1,9 @@
+@font-face {
+    font-family:"Fake Identify" ;
+    src: url("fonts/FakeIdentify.ttf");
+}
+h1{
+    color:green;
+    letter-spacing:20px;
+    font-family:"Fake Identify";
+}
