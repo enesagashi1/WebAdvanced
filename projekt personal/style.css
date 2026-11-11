@@ -1,0 +1,16 @@
+.header{
+    background-color: aqua;
+    color: blue;
+    font-size: 18px;
+}
+.header a{
+    color: brown;
+    margin:10px;
+}
+
+.header p{
+    margin:10px;
+}
+.home{
+    background-color: cadetblue;
+}
