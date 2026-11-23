@@ -176,7 +176,7 @@ body {
     width: 100%;
 }
 
-/* Header / Navbar i rreshtuar fiks me përmbajtjen poshtë */
+
 .navbar {
     width: 100%;
     display: flex;
@@ -218,7 +218,6 @@ body {
     color: #e85a19;
 }
 
-/* Seksioni kryesor dhe katrori */
 .bio-section {
     width: 100%;
     margin-left: 0;
@@ -275,7 +274,6 @@ body {
 
 body {
     background-color: #828282;
-    /* Sfondi gri si te fotoja */
     font-family: Georgia, 'Times New Roman', serif;
     color: #111;
     margin: 20px;
@@ -285,7 +283,7 @@ body {
     width: 100%;
 }
 
-/* Navbar i njëjtë me faqet e tjera */
+
 .navbar {
     width: 100%;
     display: flex;
@@ -329,7 +327,7 @@ body {
     color: #e85a19;
 }
 
-/* Titulli kryesor me hije të lehtë si te fotoja */
+
 .page-title {
     font-size: 36px;
     font-weight: bold;
@@ -342,7 +340,6 @@ body {
     margin-bottom: 35px;
 }
 
-/* Nëntitulli me vijë të valëzuar (wavy) poshtë */
 .album-title {
     font-size: 22px;
     font-weight: bold;
@@ -351,7 +348,6 @@ body {
     margin-bottom: 18px;
 }
 
-/* Katrori i këngëve me kornizë të hollë */
 .tracklist-box {
     border: 1px solid #222;
     padding: 18px 25px;
@@ -369,7 +365,7 @@ body {
     line-height: 1.6;
 }
 
-/* Butoni Back to Home */
+
 .btn {
     display: inline-block;
     background-color: #222;
@@ -404,7 +400,6 @@ body {
     width: 100%;
 }
 
-/* Navbar i njëjtë me faqet e tjera */
 .navbar {
     width: 100%;
     display: flex;
@@ -448,7 +443,6 @@ body {
     color: #e85a19;
 }
 
-/* Titulli kryesor */
 .page-title {
     font-size: 36px;
     font-weight: bold;
@@ -461,7 +455,6 @@ body {
     margin-bottom: 35px;
 }
 
-/* Nëntitulli me vijë të valëzuar */
 .life-title {
     font-size: 22px;
     font-weight: bold;
@@ -470,7 +463,6 @@ body {
     margin-bottom: 18px;
 }
 
-/* Kutia e informacionit */
 .info-box {
     border: 1px solid #222;
     padding: 18px 25px;
@@ -504,7 +496,6 @@ body {
     margin-bottom: 0;
 }
 
-/* Butoni Back to Home */
 .btn {
     display: inline-block;
     background-color: #222;
